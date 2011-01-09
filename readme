@@ -1,0 +1,1 @@
+Example code using the Google Data API to get an JSON feed of Website Optimizer experiments. Uses Json.Net to create C# objects from the JSON feed.
