@@ -1,0 +1,14 @@
+_ReSharper.*/
+package/
+*.sln.cache
+docs/**/*.~*
+[oO]bj
+[bB]in
+*.Publish.xml
+*.user
+*.suo
+log
+[Tt]humbs.db
+~$*
+*.orig
+*.pdb
